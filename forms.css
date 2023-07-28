@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+text-align: center;
+background-image: url(albert-bleeker-slpTDuenYeM-unsplash.jpg);
+background-size: cover;
+color: rgb(243, 221, 94);
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+
+button {
+    margin: 10px;
+    padding: 15px;
+    color: black;
+    border-radius: 20px;
+    background-color:rgb(243, 221, 94) ;
+}
+
+
+button:hover {
+    color: bisque;
+}
+a:hover {
+color:blue;
+}
+    
+.welcome {
+    margin top: 30px;
+}
+
+.recovery {
+margin-right: 85px;
+display: inline-block;
+}
+
+.sign-in {
+    display: inline-block;
+    margin-left: 150px;
+    margin-bottom: 300px;
+}
+input[type] {
+  background-color: rgb(240, 225, 143);  
+  color: white;
+  font-size: 20px;
+}
+
